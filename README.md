@@ -1,7 +1,7 @@
 # Deflection-Game
 ## Introduction
 
-This project was designed to practice and learn about Object Oriented Programming(OOP). 
+This project was to practice and learn about Object Oriented Programming(OOP). 
 
 This game is called **Deflection-Game**. In the game, you play as Sekiro. You can move up, down, left or right with the arrows of your keyboard, and also you can also tap spacebar to deflect as an attack is coming. This will negate all damage.
 
